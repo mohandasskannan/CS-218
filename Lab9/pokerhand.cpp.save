@@ -1,0 +1,32 @@
+#include "pokerhand.h"
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+bool compareCards(const Card& a, const Card& b) {
+	return a.getPoint() > b.getPoint();
+}
+
+PokerHand::PokerHand() {
+	hand_rank.setRank(Rank::hRanks::NoRank, 0);
+}
+
+void PokerHand::setPokerHand(Card in_hand[], int size() {
+	if (size != HANDS) {
+		cout << "Invalid number of cards!" << endl;
+		hand_rank.setRank(Rank::hRanks::NoRank, 0);
+		return;
+	}
+
+	for (int i = 0; i < HANDS; i++) {
+		cards[i] = in-hand[i];
+	}
+
+	evaluateHand();
+}
+
+int PokerHand::comparehand(const PokerHand &otherHand) const {
+	return hand_rank.compareRank(otherHand.hand_rank);
+}
+
+

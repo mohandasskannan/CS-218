@@ -1,0 +1,100 @@
+/home/mka377/CS218/Lab1
+total 4
+-rw-rw-r-- 1 mka377 mka377 24 Aug 28 13:27 file1
+ ____________________
+( Can I enjoy CS218? )
+ --------------------
+        o   ^__^
+         o  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+C++ compiler version of my Virtual Machine is: 
+201703
+ _____________________________________
+/ Hello, Tyler and JP! I am Mohandass \
+\ Kannan.                             /
+ -------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+    1  pwd
+    2  ls
+    3  ./cowssay
+    4  cd Demo
+    5  cd AutoCompleteMe/
+    6  make
+    7  man
+    8  man man
+    9  pwd > file1
+   10  cat file1
+   11  ls -l
+   12  ls -l >> file1
+   13  LS
+   14  ls
+   15  Hello, JP! I am Mohandass Kannan.
+   16  cowsay "Hello, JP! I am Mohandass Kannan."
+   17  cat file1
+   18  cowthink "Can I enjoy CS218?" >> file1
+   19  yes "I will enjoy CS218!"
+   20  echo shell
+   21  echo $shell
+   22  echo $SHELL
+   23  curl -O https://www.cs.uky.edu/~yipike/CS218/testC++CompilerVersion.cpp
+   24  g++ testC++CompilerVersion.cpp -o testC++Compiler
+   25  testC++Compiler
+   26  pwd
+   27  mkdir CS218
+   28  mkdir CS 218
+   29  pwd
+   30  cd CS218
+   31  mkdir Lab1
+   32  pwd
+   33  cd Lab1
+   34  pwd
+   35  pwd > file1
+   36  cat file1
+   37  ls -l
+   38  ls -l >> file1
+   39  LS
+   40  ls
+   41  cowsay "Hello, JP, I am Mohandass Kannan."
+   42  cat file1
+   43  cowthink "Can I enjoy CS218?" >> file1
+   44  yes "I will enjoy CS218!"
+   45  echo shell
+   46  echo $shell
+   47  echo $SHELL
+   48  curl -O https://www.cs.uky.edu/~yipike/CS218/testC++CompilerVersion.cpp
+   49  g++ testC++CompilerVersion.cpp -o testC++Compiler
+   50  testC++Compiler
+   51  ./testC++Compiler
+   52  ./testC++Compiler >> file1
+   53  cat file1
+   54  history > file2
+                                                 
+               ""#                               
+m     m  mmm     #     mmm    mmm   mmmmm   mmm  
+"m m m" #"  #    #    #"  "  #" "#  # # #  #"  # 
+ #m#m#  #""""    #    #      #   #  # # #  #"""" 
+  # #   "#mm"    "mm  "#mm"  "#m#"  # # #  "#mm" 
+                                                 
+                                                 
+                            
+ mmmmm                #     
+ #    #  mmm    mmm   #   m 
+ #mmmm" "   #  #"  "  # m"  
+ #    # m"""#  #      #"#   
+ #mmmm" "mm"#  "#mm"  #  "m 
+                            
+                            
+                                                        
+m     m   "    ""#        #                  m          
+#  #  # mmm      #     mmm#   mmm    mmm   mm#mm   mmm  
+" #"# #   #      #    #" "#  #"  "  "   #    #    #   " 
+ ## ##"   #      #    #   #  #      m"""#    #     """m 
+ #   #  mm#mm    "mm  "#m##  "#mm"  "mm"#    "mm  "mmm" 
+                                                        
+                                                        
